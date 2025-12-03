@@ -5,7 +5,7 @@
 Built by **Hufsa Moonis Mir** - Sustainability expert with 10+ years experience at world-renowned brands including Adidas innovation partner.
 
 ## 🚀 Live Demo
-[Try the Calculator](https://hufsaofficial.github.io/sustainability-frisk)
+[Try the Calculator](https://github.com/HufsaMoonisMir/Sustainability-Frisk)
 
 ## ✨ Features
 
